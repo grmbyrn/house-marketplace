@@ -4,7 +4,7 @@ import Explore from './pages/Explore'
 import Offers from './pages/Offers'
 import Profile from './pages/Profile'
 import SignUp from './pages/SignUp'
-import SignIn from './pages/SingIn'
+import SignIn from './pages/SignIn'
 import ForgotPassword from './pages/ForgotPassword'
 
 function App() {
